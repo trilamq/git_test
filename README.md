@@ -1,0 +1,1 @@
+This is Tri Lam's first git project!
